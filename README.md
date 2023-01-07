@@ -3,11 +3,12 @@
 #### Web Developer
 Hello there! I am a professional Web Developer. I have almost 3 years of experience in Web Development and major Bug Fixing. I have tremendous experience in Web Development & Fixing Bug that I have proved on my past projects. I am here to offer you quality website development with your full satisfaction. 
 
-Skills: HTML / CSS/ BOOTSTRA / LARAVEL /  REACT / JS / LARAVEL
+Skills: HTML / CSS/ BOOTSTRAP / LARAVEL /  REACT / JS / LARAVEL
 
 - 🌱 I’m currently learning Laravel 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web development 
+- How to reach me-> WEBDEV.MUNNAA@GMAIL.COM
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/webdev-munna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/webdevmunna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](@webdev99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/webdeveloper2030/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/webdevmunna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@webdev_munna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/webdev-munna)  
